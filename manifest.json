@@ -1,1 +1,42 @@
-{"theme_color":"#00bfff","background_color":"#a0e6f8","icons":[{"purpose":"maskable","sizes":"512x512","src":"icon512_maskable.png","type":"image/png"},{"purpose":"any","sizes":"512x512","src":"icon512_rounded.png","type":"image/png"}],"orientation":"any","display":"standalone","dir":"auto","lang":"en-GB","name":"Hasan Technology","short_name":"HT","start_url":"/","scope":"https://hasantechnologyofficial.blogspot.com/","description":"Hasan Technology is your go-to tech website, offering a wide range of tutorials, guides, and digital content to help you stay updated and learn new skills in the digital world. Whether you're exploring software, gadgets, or online tools, Hasan Technology has you covered with easy-to-follow resources.","id":"/"}
+{
+  "theme_color": "#00bfff",
+  "background_color": "#a0e6f8",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon512_rounded.png",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "any",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-GB",
+  "name": "Hasan Technology",
+  "short_name": "HT",
+  "start_url": "https://hasantechnologyofficial.blogspot.com/",
+  "scope": "https://hasantechnologyofficial.blogspot.com/",
+  "description": "Your go-to tech website for tutorials, guides, and updates.",
+  "id": "https://hasantechnologyofficial.blogspot.com/",
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshot2.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
