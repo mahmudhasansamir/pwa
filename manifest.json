@@ -28,7 +28,7 @@
   "screenshots": [
     {
       "src": "screenshot1.png",
-      "sizes": "359x150",
+      "sizes": "1366x768",
       "type": "image/png",
       "form_factor": "narrow"
     },
